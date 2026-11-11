@@ -32,6 +32,13 @@ Status: Concept / Design
 An AI-powered business operations assistant.
 Status: Concept / Prototype
 
+### CyberSpace
+A cybersecurity management system.
+Status: Concept / Prototype planning
+
+## Skills & Tech Stack
+Python · TypeScript · Git & GitHub · APIs & Automation · AI Agent Development
+
 ## Currently Learning
 - Python Programming
 - Git & GitHub
